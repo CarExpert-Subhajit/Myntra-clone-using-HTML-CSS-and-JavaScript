@@ -2,12 +2,6 @@
 
 A fully responsive **Myntra.com clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates the UI and core features of the popular e-commerce website Myntra, designed as a front-end web development practice project.
 
-## 📸 Preview
-
-![Myntra Clone Preview]([https://user-images.githubusercontent.com/your-screenshot-link.png](https://carexpert-subhajit.github.io/Myntra-clone-using-HTML-CSS-and-JavaScript/
-))  
-*(Add a screenshot or GIF of your homepage here if available)*
-
 ## 🚀 Features
 
 - 🖼️ Responsive home page with product categories
